@@ -16,3 +16,7 @@
 .container ul li a {
 	color: gray;
 }
+
+.container ul li a img {
+	max-width: 100%
+}
