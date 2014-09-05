@@ -4,6 +4,15 @@
 	overflow: hidden;
 }
 
+.container header {
+	margin: 50px 2%;
+}
+
+.container ul {
+	margin: 0;
+	padding: 0;
+}
+
 .container ul li {
 	list-style: none;
 	float: left;
@@ -18,5 +27,6 @@
 }
 
 .container ul li a img {
-	max-width: 100%
+	max-width: 100%;
+	border-radius: 5px;
 }
