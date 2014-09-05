@@ -1,0 +1,14 @@
+.container {
+	width: 80%;
+	margin: 30px auto;
+	overflow: hidden;
+}
+
+.container ul li {
+	list-style: none;
+	float: left;
+	font-size: 10px/1.5 Verdana, Helvetica, Sans-serif;
+}
+
+.container ul li a {
+	color: gray;
